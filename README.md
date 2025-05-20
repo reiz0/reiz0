@@ -67,6 +67,12 @@ Built with **React**, **Vite**, and **MongoDB**, featuring secure login and pers
 
 ---
 
+## Quick Stats
+
+https://github-readme-stats.vercel.app/api?username=reiz0
+
+---
+
 <p align="center">
   Thank you for visiting my profile! 🚀  
 </p>
